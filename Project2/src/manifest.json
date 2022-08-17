@@ -1,0 +1,11 @@
+{
+    "name": "Password Genarator",
+    "version": "1.0.0",
+    "description": "Password genarated according to the selected options",
+    "manifest_version": 3,
+    "author": "Alok",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Password Genarator"
+    }
+}
